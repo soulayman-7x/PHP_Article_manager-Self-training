@@ -1,0 +1,25 @@
+# CHAPTER 01
+
+--- Lesson Summary: PDO Connection
+
+-> Definition: PDO is Bridge between PHP and Database.
+-> Goal: To Create a Secure and Fast connection.
+-> Requirements: Need the Host, DB Name, Username, and Password.
+-> Safety: use `try/catch` to prevent the web site from crashing if the connection fails.
+
+--- Key Terms
+
+-> Object: يمثل الاتصال بقاعدة البانات ($pdo/$conn..);
+
+-> PDO: The main tool (class) we use to talk to the database.
+    [PHP DATA OBJECTS]
+
+-> DSN: The "Address" my database (Type, host, Name);
+    [DATA SOURCE NAME]
+
+-> "->" (Operator): A symbol used to 'ask' the object to do something.
+
+-> Exception: A technical word for an Error. ( يعطينا تفاصيل الخطأ)
+
+-> Try: try to run this code.                   
+-> Catch: if an error happens, do this instead.  

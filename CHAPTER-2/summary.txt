@@ -1,0 +1,17 @@
+# CHAPTER 2
+
+--- Key Terms:
+
+$sql > SQL Command (نكتب استعلام sql);
+
+$query() > Run SQL (Sending the SQL command to the server);
+
+$stmt > Statement  (It carries the query result coming from the server);
+
+fetchAll() > Get all data and place them in an array[];
+
+PDO::FETCH_ASSOC > Use Column Names: the fetch mode that 
+    allows us to access data using the column name (like: "username");
+    (جلب البيانات باستخدام اسم العمود بدل رقمه)
+
+

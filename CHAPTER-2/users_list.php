@@ -63,7 +63,7 @@ try {
         <thead>
             <tr>
                 <th>ID</th>
-                <th>Username</th>
+                <th>User Name</th>
                 <th>Email</th>
                 <th>Role</th>
             </tr>

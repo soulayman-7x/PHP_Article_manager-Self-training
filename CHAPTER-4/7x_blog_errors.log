@@ -1,0 +1,2 @@
+05-03-26 15:29:36- SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table '7x_blog.ghost_table' doesn't exist
+SQLSTATE[42S02]: Base table or view not found: 1146 Table '7x_blog.ghost_table' doesn't exist

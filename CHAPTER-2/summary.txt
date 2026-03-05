@@ -15,3 +15,5 @@ PDO::FETCH_ASSOC > Use Column Names: the fetch mode that
     (جلب البيانات باستخدام اسم العمود بدل رقمه)
 
 
+PDOStatement > The Result Handler ($stmt)
+    
